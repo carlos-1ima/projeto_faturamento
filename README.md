@@ -6,6 +6,16 @@ O sistema realiza a leitura de múltiplos formatos de arquivos, aplica regras fi
 
 ---
 
+## ⚙️ Como executar o projeto
+
+1. Clone o repositório
+2. Crie as seguintes pastas na raiz do projeto:
+   - 'entrada'
+   - 'saida'
+3. Adicione os arquivos XML (NFe/NFS-e) ou CSV na pasta 'entrada'
+4. Execute o script principal
+5. O relatório será gerado na pasta 'saida'
+
 ## 🚀 Funcionalidades
 
 - 📥 Importação de arquivos:
