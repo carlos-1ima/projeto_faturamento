@@ -1,4 +1,12 @@
+#Arquivos gerados
 entrada/
 saida/
+*.xlsx
+
+#Python
 __pycache__/
 *.pyc
+
+#Logs
+*.log
+app.log
